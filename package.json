@@ -1,5 +1,5 @@
 {
-  "homepage": "https://umaransa8/umar-react",
+  "homepage": "http://umaransa8.github.io/umar-react",
   "name": "2",
   "version": "0.1.0",
   "private": true,
@@ -40,7 +40,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d deploy"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
